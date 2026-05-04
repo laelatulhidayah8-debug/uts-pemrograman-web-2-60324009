@@ -1,7 +1,7 @@
 # UTS Pemrograman Web 2 — Sistem Manajemen Kategori Buku
 
 > Nama: Laelatul Hidayah  
-> NIM: [NIM Anda]  
+> NIM: 60324009  
 > Program Studi: Informatika  
 > Mata Kuliah: Pemrograman Web 2  
 > Institusi: UIN K.H. Abdurrahman Wahid Pekalongan  
@@ -74,8 +74,4 @@ uts_[NIM]/
 - Validasi ID menggunakan casting `(int)` sebelum diproses
 - Konfirmasi JavaScript sebelum menghapus data
 
----
 
-## 📸 Screenshot
-
-> *(Tambahkan screenshot aplikasi di sini jika diperlukan)*
