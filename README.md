@@ -13,10 +13,10 @@
 Aplikasi web sederhana untuk mengelola **Kategori Buku** di perpustakaan. Dibangun menggunakan **PHP Native** dan **MySQL**, dengan antarmuka berbasis **Bootstrap 5**.
 
 Fitur utama:
-- ✅ **CREATE** — Tambah kategori baru dengan validasi lengkap
-- ✅ **READ** — Tampilkan daftar semua kategori dalam tabel
-- ✅ **UPDATE** — Edit data kategori yang sudah ada
-- ✅ **DELETE** — Hapus kategori dengan konfirmasi
+-  **CREATE** — Tambah kategori baru dengan validasi lengkap
+-  **READ** — Tampilkan daftar semua kategori dalam tabel
+-  **UPDATE** — Edit data kategori yang sudah ada
+-  **DELETE** — Hapus kategori dengan konfirmasi
 
 ---
 
@@ -31,22 +31,22 @@ Fitur utama:
 
 1. **Clone / Download** repository ini ke folder htdocs (XAMPP) atau www (WAMP):
    ```
-   git clone https://github.com/[username]/uts-pemrograman-web-2-[NIM].git
+   git clone https://github.com/[username]/uts-pemrograman-web-2-60324009.git
    ```
 
 2. **Import Database:**
    - Buka phpMyAdmin → http://localhost/phpmyadmin
-   - Buat database baru: `uts_perpustakaan_[NIM]`
+   - Buat database baru: `uts_perpustakaan_60324009`
    - Pilih database tersebut → tab **Import**
    - Pilih file `database/database_backup.sql` → klik **Go**
 
 3. **Konfigurasi Koneksi:**
    - Buka file `config/database.php`
-   - Sesuaikan `DB_NAME` dengan nama database Anda (ganti `[NIM]`)
+   - Sesuaikan `DB_NAME` dengan nama database Anda (ganti `60324009`)
    - Sesuaikan `DB_USERNAME` dan `DB_PASSWORD` jika perlu
 
 4. **Jalankan Aplikasi:**
-   - Buka browser → `http://localhost/uts-pemrograman-web-2-[NIM]/`
+   - Buka browser → `http://localhost/uts-pemrograman-web-2-60324009/`
 
 ---
 
