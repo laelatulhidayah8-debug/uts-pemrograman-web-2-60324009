@@ -31,7 +31,7 @@ Fitur utama:
 
 1. **Clone / Download** repository ini ke folder htdocs (XAMPP) atau www (WAMP):
    ```
-   git clone https://github.com/[username]/uts-pemrograman-web-2-60324009.git
+   git clone https://github.com/laelatulhidayah8-debug/uts-pemrograman-web-2-60324009.git
    ```
 
 2. **Import Database:**
@@ -74,4 +74,7 @@ uts_[NIM]/
 - Validasi ID menggunakan casting `(int)` sebelum diproses
 - Konfirmasi JavaScript sebelum menghapus data
 
+# Link Repository
+
+https://github.com/laelatulhidayah8-debug/uts-pemrograman-web-2-60324009
 
