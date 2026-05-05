@@ -1,10 +1,9 @@
-
 -- Buat dan gunakan database
-CREATE DATABASE IF NOT EXISTS `uts_perpustakaan_[NIM]`
+CREATE DATABASE IF NOT EXISTS `uts_perpustakaan_60324009`
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
-USE `uts_perpustakaan_[NIM]`;
+USE `uts_perpustakaan_60324009`;
 
 -- ============================================================
 -- Tabel: kategori
